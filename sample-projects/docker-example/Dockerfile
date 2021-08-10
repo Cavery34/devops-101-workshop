@@ -1,1 +1,1 @@
-FROM $alirisrainn.jfrog.io/$devops309new/ubuntu:16.04
+FROM $alirisrainn.jfrog.io/$devops309new-docker/ubuntu:16.04
